@@ -12,7 +12,6 @@
 - Designing a modular backend system to enhance scalability.
 - Building a real-time data processing pipeline for large datasets.
 - Exploring machine learning techniques to automate software testing.
-- Creating automation tools to streamline development workflows.
 
 🌱 I’m currently learning:
 - Advanced machine learning techniques and deep learning architectures to elevate predictive analytics.
@@ -21,7 +20,7 @@
 
 ⚡ Two truths one lie:
 - I have played volleyball on every continent
-- I have been to 67% of continents
+- I have been to 67% of the globe
 - I am a triplet
 
 <!--
