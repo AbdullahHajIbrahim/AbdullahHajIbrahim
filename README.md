@@ -1,6 +1,6 @@
-### Hi there 👋
-# My name is Abdullah, and I'm a graduate of UIC with a degree in Computer Science. 
-## I'm a dedicated software developer with a passion for creating robust, scalable applications. I enjoy exploring new technologies, optimizing system performance, and building creative solutions to real-world challenges.
+# Hi there 👋
+## My name is Abdullah, and I'm a graduate of UIC with a degree in Computer Science. 
+### I'm a dedicated software developer with a passion for creating robust, scalable applications. I enjoy exploring new technologies, optimizing system performance, and building creative solutions to real-world challenges.
 
 🌟 My areas of expertise are:
 - Full-stack web development (React, Node.js, MongoDB)
